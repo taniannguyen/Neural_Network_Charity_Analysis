@@ -1,6 +1,6 @@
 # Neural Network Charity Analysis
 
-## Overview of the analysis: 
+## Overview of the Analysis
 ### Purpose
 The purpose of this analysis is to use the knowledge of machine learning and neural networks, we will use the features in the provided dataset to help Beks create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
 
